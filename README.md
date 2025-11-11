@@ -7,6 +7,7 @@
 <img width="787" height="163" alt="image" src="https://github.com/user-attachments/assets/755b4558-48f2-4c8e-98f7-6ab58e5310eb" />
 
 <h2>Алгоритм</h2>
+
 ```
 1. Начало.
 2. Инициализируем переменные
@@ -30,6 +31,7 @@
           printf("%c", sim);
         printf("\n");
 4. Конец.
+```
             
 <h2>Код программы</h2>
 
@@ -73,6 +75,7 @@ void main()
 		}
 	}
 }
+```
 
 <h2>Схема</h2>
 <img width="667" height="713" alt="image" src="https://github.com/user-attachments/assets/e311641e-3f72-4db8-9012-52c807d71aa6" />
