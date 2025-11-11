@@ -30,9 +30,9 @@
           printf("%c", sim);
         printf("\n");
 4. Конец.
-```
             
 <h2>Код программы</h2>
+
 ```
 #define _CRT_SECURE_NO_DEPRECATE 
 #include <stdio.h>
@@ -73,7 +73,6 @@ void main()
 		}
 	}
 }
-```
 
 <h2>Схема</h2>
 <img width="667" height="713" alt="image" src="https://github.com/user-attachments/assets/e311641e-3f72-4db8-9012-52c807d71aa6" />
